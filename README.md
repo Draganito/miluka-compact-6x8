@@ -42,6 +42,17 @@ Inventor: Dragan Bojovic
 Commercial use prohibited. Private printing/milling allowed. No design changes. Attribution required.
 December 2025
 
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+
+
 Ebay Parts Links:
 Cold Shoe https://www.ebay.ch/itm/256756970307
 Sling Screw for Strap https://www.ebay.ch/itm/406250562986
