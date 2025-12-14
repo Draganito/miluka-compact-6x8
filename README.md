@@ -90,5 +90,8 @@ first/old Github Project: https://github.com/Draganito/miluka-zone
 
 Tool programmed for Body Design Simulation https://draganito.github.io/lens_sim/
 
+First mention: https://forum.aphog.com/index.php?thread/64917-frankenstein-kamera-6x7/
+
+
 
 
