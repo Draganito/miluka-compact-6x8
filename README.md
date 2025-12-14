@@ -1,4 +1,4 @@
-# Miluka Compact 6x8
+# miluka Compact 6x8
 
 The Miluka Compact 6x8 is a camera system providing a compact professional body for portrait, street, landscape, and more photography usecases.
 
