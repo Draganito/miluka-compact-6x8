@@ -40,8 +40,7 @@ Published as STEP and STL files under [CC BY-NC-ND 4.0](https://creativecommons.
 
 Inventor: Dragan Bojovic  
 Commercial use prohibited. Private printing/milling allowed. No design changes. Attribution required.
-
-Dragan Bojovic, December 2025
+December 2025
 
 Ebay Parts Links:
 Cold Shoe https://www.ebay.ch/itm/256756970307
