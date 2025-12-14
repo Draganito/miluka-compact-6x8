@@ -42,15 +42,8 @@ Inventor: Dragan Bojovic
 Commercial use prohibited. Private printing/milling allowed. No design changes. Attribution required.
 December 2025
 
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/real1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/miluka_body2.png)
+
 
 
 Ebay Parts Links:
