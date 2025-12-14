@@ -1,6 +1,6 @@
 # miluka Compact 6x8
 
-The Miluka Compact 6x8 is a camera system providing a compact professional body for portrait, street, landscape, and more photography usecases.
+The miluka Compact 6x8 is a camera system providing a compact professional body for portrait, street, landscape, and more photography usecases.
 
 The camera body allows use of many newer or classic lenses with the Mamiya RB 6x8 or Mamiya RB 6x7 film back.
 
