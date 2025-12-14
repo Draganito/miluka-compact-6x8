@@ -76,6 +76,8 @@ Sling Screw for Strap https://www.ebay.ch/itm/187712981477
 
 Bright Ground Glass https://www.ebay.ch/itm/126527658529
 
+Normal Ground Glass https://www.ebay.ch/itm/147021285483
+
 17-31 Helicoid https://www.ebay.ch/itm/313543176067
 
 25-55 Helicoid https://www.ebay.ch/itm/313542882203
