@@ -53,3 +53,6 @@ Copal #00 Lensboard https://www.ebay.ch/itm/226102723622
 Copal #0 Lensboard https://www.ebay.ch/itm/326906929939
 Copal #1 Lensboard https://www.ebay.ch/itm/227124652209
 Helicoid Flange M65 https://www.ebay.ch/itm/394637816375
+
+first/old Github Project: https://github.com/Draganito/miluka-zone
+
