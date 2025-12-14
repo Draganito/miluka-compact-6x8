@@ -65,15 +65,25 @@ Prototype 3
 
 
 Ebay Parts Links:
+
 Cold Shoe https://www.ebay.ch/itm/256756970307
+
 Sling Screw for Strap https://www.ebay.ch/itm/406250562986
+
 Sling Screw for Strap https://www.ebay.ch/itm/187712981477
+
 Bright Ground Glass https://www.ebay.ch/itm/126527658529
+
 17-31 Helicoid https://www.ebay.ch/itm/313543176067
+
 25-55 Helicoid https://www.ebay.ch/itm/313542882203
+
 Copal #00 Lensboard https://www.ebay.ch/itm/226102723622
+
 Copal #0 Lensboard https://www.ebay.ch/itm/326906929939
+
 Copal #1 Lensboard https://www.ebay.ch/itm/227124652209
+
 Helicoid Flange M65 https://www.ebay.ch/itm/394637816375
 
 first/old Github Project: https://github.com/Draganito/miluka-zone
