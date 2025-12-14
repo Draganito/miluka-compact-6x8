@@ -24,7 +24,7 @@ The camera body allows use of many newer or classic lenses with the Mamiya RB 6x
 | Fuji        | Fujinon-SW       | 75mm/f8                   | 4x5               | 82.50                     | 54.00                  | 17-31+17-31                     |
 | Fuji        | Fujinon-SW       | 90mm/f8                   | 5x7               | 99.40                     | 64.00                  | 17-31+25-55 / 25-55+25-55       |
 
-+ + many more classic lenses in Copal/Compur/Compound shutters from old plate or folding cameras (75mm to 110mm focal length).
++ plus many more classic lenses in Copal/Compur/Compound shutters from old plate or folding cameras (75mm to 110mm focal length).
 
 ### Construction and Use
 
