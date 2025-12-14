@@ -43,6 +43,21 @@ Commercial use prohibited. Private printing/milling allowed. No design changes. 
 December 2025
 
 ![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/miluka_body2.png)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/miluka_body.png)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/groundglass_holder.png)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/back_holder_top.png)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/back_holder_bottom.png)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/prototype1.jpeg)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/prototype2_cnc_wood.jpeg)
+![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/prototype3_cnc_pom.jpeg)
+
+
+
+
+
+
+
+
 
 
 
