@@ -37,8 +37,9 @@ STEP Files for CNC Milling
 - Thread inserts (e.g., Ruthex) for 3D print; cut threads for CNC.
 - Ground glass holder fits 88×61×2.0 mm glasses (eBay).
 - Requires M65 flange and helicoid(s) (17-31 mm, 25-55 mm, or combinations) – available on eBay.
-- Size: 118.2*41*109.1mm
+- Size: Width: 118.2, Depth 41, Height 109.1mm
 - Weight: POM ~400 g, PLA+ ~350 g, Aluminium ~760 g
+- Minimum FFD with 17-31 Helicoid 64mm (41mm Body, 4mm Flange, 17mm Helicoid, 2mm Lensboard)
 
 ### License
 
