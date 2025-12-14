@@ -47,8 +47,11 @@ December 2025
 ![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/groundglass_holder.png)
 ![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/back_holder_top.png)
 ![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/back_holder_bottom.png)
+Prototype 1
 ![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/prototype1.jpeg)
+Prototype 2
 ![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/prototype2_cnc_wood.jpeg)
+Prototype 3
 ![Alt text](https://github.com/Draganito/miluka-compact-6x8/blob/main/prototype3_cnc_pom.jpeg)
 
 
