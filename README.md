@@ -4,6 +4,10 @@ The Miluka Compact 6x8 is a camera system providing a compact professional body 
 
 The camera body allows use of many newer or classic lenses with the Mamiya RB 6x8 or Mamiya RB 6x7 film back.
 
+STL Files for 3D Printing
+
+STEP Files for CNC Milling
+
 ### Compatible Modern Lenses
 
 | Manufacturer | Name              | Focal Length/Max. Aperture | Max. Lens Coverage | Flange Focal Distance (mm) | Rear Lens Diameter (mm) | Compatible Helicoid              |
